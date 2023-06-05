@@ -37,7 +37,7 @@ My name is Axel and i'm a student at Holberton School Laval.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ My name is Axel and i'm a student at Holberton School Laval.
 ***
 
 ### :fire: My Stats :
-<div align="center">
+<div>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heidge&theme=dark&background=000000)](https://git.io/streak-stats)
   
