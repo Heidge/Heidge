@@ -61,3 +61,10 @@ My name is Axel and i'm a student at Holberton School Laval.
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heidge&bg_color=000000&layout=donut&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+***
+
+### :writing_hand: Blog Posts :
+
+- <a href="https://medium.com/@axel.gore35/what-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-eaace96fe598">What happens when you type ls -l *.c and hit Enter in a Shell ?</a>
+
