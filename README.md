@@ -25,9 +25,9 @@
 My name is Axel and i'm a student at Holberton School Laval. 
 
 - :closed_book: I successfully completed my first year by developing my first portfolio project, which you can see here.
-- 
+
 - :dart: I would like to specialize in game / AR / VR programmer for my second year.
-- 
+
 - :joystick: In my free time, i enjoy learning more programming languages, playing video games, reading mangas and discovering content about Japan on youtube.
-- 
+
 - :mailbox: You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-gor%C3%A9-a76661119/)
