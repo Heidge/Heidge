@@ -6,7 +6,7 @@
   Hey Nakama, welcome to my GitHub Profile !
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   ⬇️ Don't hesitate to visit my social networks ⬇️
  </h3>
 <div id="badges" align="center">
