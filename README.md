@@ -7,7 +7,9 @@
   Hey Nakama, welcome to my GitHub Profile !
 </h1>
 
-### ⬇️ Don't hesitate to visit my social networks ⬇️
+<div align="center">
+  ### ⬇️ Don't hesitate to visit my social networks ⬇️
+ </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/axel-gor%C3%A9-a76661119/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
