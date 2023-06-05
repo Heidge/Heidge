@@ -22,4 +22,6 @@
 </div>
 
 ### :man_technologist: About Me :
-My name is Axel and i'm a student at Holberton School Laval. I successfully completed my first year by developing my first portfolio project, which you can see here.
+My name is Axel and i'm a student at Holberton School Laval. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.holbertonschool.com%2F&psig=AOvVaw2AXFLiWdNa-PBKW45fzfn8&ust=1686058453508000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCGuKufrP8CFQAAAAAdAAAAABAE">
+
+I successfully completed my first year by developing my first portfolio project, which you can see here.
