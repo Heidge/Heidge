@@ -6,3 +6,5 @@
 <h1 align="center">
   Hey Nakama, welcome to my GitHub profile !
 </h1>
+
+LinkedIn-blue
