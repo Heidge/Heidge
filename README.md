@@ -54,7 +54,9 @@ My name is Axel and i'm a student at Holberton School Laval.
 ***
 
 ### :fire: My Stats :
+<div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heidge&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heidge&bg_color=000000&layout=donut&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+</div>
