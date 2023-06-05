@@ -25,7 +25,7 @@
 ### :man_technologist: About Me :
 My name is Axel and i'm a student at Holberton School Laval. 
 
-- :closed_book: I successfully completed my first year by developing my first portfolio project, which you can see here.
+- :closed_book: I successfully completed my first year by developing my first portfolio project, which you can see <a href="https://github.com/Heidge/ASGT">here</a>.
 
 - :dart: I would like to specialize in game / AR / VR programmer for my second year.
 
