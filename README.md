@@ -32,4 +32,4 @@ My name is Axel and i'm a student at Holberton School Laval.
 
 - :mailbox: You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-gor%C3%A9-a76661119/)
 
-___
+***
