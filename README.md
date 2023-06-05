@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey nakama, welcome to my GitHub profile !
+  Hey Nakama, welcome to my GitHub profile !
 </h1>
 
 <div id="header" align="center">
