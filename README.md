@@ -7,4 +7,4 @@
   Hey Nakama, welcome to my GitHub profile !
 </h1>
 
-LinkedIn-blue
+[LinkedIn-blue](https://img.shields.io/badge/-LinkedIn-blue)
