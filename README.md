@@ -7,8 +7,6 @@
   Hey Nakama, welcome to my GitHub Profile !
 </h1>
 
-
---- 
 ### ⬇️ Don't hesitate to visit my social networks ⬇️
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/axel-gor%C3%A9-a76661119/">
