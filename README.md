@@ -50,3 +50,9 @@ My name is Axel and i'm a student at Holberton School Laval.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"  title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
 </div>
+
+***
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Heidge&theme=dark&background=000000)](https://git.io/streak-stats)
