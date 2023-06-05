@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Jev4iU72S9RYc/giphy.gif" width="500px"/>
 </div>
-###Hey Nakama, welcome to my GitHub profile !
+### ⬇️ Don't hesitate to visit my social networks ⬇️
 
 
 --- 
