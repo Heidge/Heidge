@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/Jev4iU72S9RYc/giphy.gif" width="500px"/>
 </div>
 
-<p align="center"> 
+<h1 align="center"> 
   Hey Nakama, welcome to my GitHub Profile !
-</p>
+</h1>
 
 ### :man_technologist: About Me :
 My name is Axel and i'm a student at Holberton School Laval. 
