@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> 
-  Hey Nakama, welcome to my GitHub Profile !
+  Hey space cowboy, welcome to my GitHub Profile !
 </h1>
 
 ### :man_technologist: About Me :
