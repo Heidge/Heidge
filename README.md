@@ -7,13 +7,11 @@
 </h1>
 
 ### :man_technologist: About Me :
-My name is Axel and i'm a student at Holberton School Laval. 
+My name is Axel and i'm SWE at Holberton School. 
 
-- :closed_book: I successfully completed my first year by developing my first portfolio project, which you can see <a href="https://github.com/Heidge/ASGT">here</a>.
+- :closed_book: I successfully completed my two years by developing my first portfolio project, which you can see <a href="https://github.com/Heidge/ASGT">here</a>.
 
-- :dart: I would like to specialize in game / AR / VR programmer for my second year.
-
-- :joystick: In my free time, i enjoy learning more programming languages, playing video games, watching animes and discovering content about Japan on youtube.
+- :joystick: In my free time, i enjoy learning more programming languages, playing World of Warcraft, watching animes and discovering content about Japan on youtube.
 
 - :mailbox: You can reach me here : [![Linkedin Badge](https://img.shields.io/badge/-Axel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/axel-gor%C3%A9-a76661119/)
 
@@ -32,8 +30,6 @@ My name is Axel and i'm a student at Holberton School Laval.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"  title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
 </div>
 
 ***
