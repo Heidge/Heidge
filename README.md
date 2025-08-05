@@ -3,5 +3,5 @@
 </div>
 
 <h1 align="center"> 
-  Hey space cowboy, welcome to my GitHub Profile !
+  Hey pirate, welcome to my GitHub Profile !
 </h1>
