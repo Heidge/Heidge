@@ -11,7 +11,3 @@
 * 🌱 I’m currently learning Java and some cloud technologies
 * 📫 How to reach me: axel.gore35@gmail.com
 * ❤️ I love pop culture
-
-<h2 align="center">
-  Languages and technologies learned
-</h2>
