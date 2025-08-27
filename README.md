@@ -12,3 +12,6 @@
 * 📫 How to reach me: axel.gore35@gmail.com
 * ❤️ I love pop culture
 
+<h2>
+  Languages and technologies learned
+</h2>
