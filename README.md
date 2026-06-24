@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> 
-  Hey pirate, welcome to my GitHub Profile !
+  Hey, welcome to my GitHub Profile !
 </h1>
 
 * 👂 My name is Axel
